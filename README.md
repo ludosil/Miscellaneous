@@ -1,14 +1,12 @@
-A few courses / seminars I have given over the years, plus a few articles I've written for The Actuary magazine.
-
 # Seminars / presentations
-- [QE and the inflation dogma: does it work and does it make sense?](https://github.com/ludosil/Miscellaneous/blob/master/QE%20and%20the%20inflation%20dogma%20pensions%20highlights.pptx) - download PPT to view. 
+- [QE and the inflation dogma: does it work and does it make sense?](https://github.com/ludosil/Miscellaneous/blob/main/QE%20and%20the%20inflation%20dogma%20pensions%20highlights.pptx) - download PPT to view. 
 - [Pensions and a changing economic outlook: lessons, reflections and looking ahead](https://vle.actuaries.org.uk/course/view.php?id=1049) (need to be an IFoA member to view)
 - [An introduction to functional programming](an-intro-to-fp.md)
 
 # Courses
-- [A practical introduction to regex](https://github.com/ludosil/Miscellaneous/blob/master/regex/A%20practical%20introduction%20to%20regex.pptx) - a half-day course I gave on the basics - see regex/ folder for the content and download the PPT for the overview
+- [A practical introduction to regex](https://github.com/ludosil/Miscellaneous/blob/main/regex/A%20practical%20introduction%20to%20regex.pptx) - a half-day course I gave on the basics - see regex/ folder for the content and download the PPT for the overview
 
-# Articles
+# Articles for The Actuary magazine
 - [Hidden complexities](https://www.theactuary.com/features/2016/05/2016/05/04/hidden-complexities)
 - [Crisis for central bankers?](https://www.theactuary.com/opinion/2016/12/2016/11/25/crisis-central-bankers)
 - [Where are UK property prices heading?](https://www.theactuary.com/features/2017/09/2017/09/05/where-are-uk-property-prices-heading)
