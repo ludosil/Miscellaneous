@@ -1,12 +1,12 @@
 A few courses / seminars I have given over the years, plus a few articles I've written for The Actuary magazine.
 
 # Seminars / presentations
-- _QE and the inflation dogma pensions highlights.pptx_ - see PowerPoint presentation. 
+- [QE and the inflation dogma: does it work and does it make sense?](https://github.com/ludosil/Miscellaneous/blob/master/QE%20and%20the%20inflation%20dogma%20pensions%20highlights.pptx) - download PPT to view. 
 - [Pensions and a changing economic outlook: lessons, reflections and looking ahead](https://vle.actuaries.org.uk/course/view.php?id=1049) (need to be an IFoA member to view)
 - [An introduction to functional programming](an-intro-to-fp.md)
 
 # Courses
-- _A practical introduction to regex_ - a half-day course I gave on the basics - see regex/A practical introduction to regex.pptx for the content
+- [A practical introduction to regex](https://github.com/ludosil/Miscellaneous/blob/master/regex/A%20practical%20introduction%20to%20regex.pptx) - a half-day course I gave on the basics - see regex/ folder for the content and download the PPT for the overview
 
 # Articles
 - [Hidden complexities](https://www.theactuary.com/features/2016/05/2016/05/04/hidden-complexities)
